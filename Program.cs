@@ -14,3 +14,14 @@ for(i = 0; i < arr.Length; i++)
     Console.Write(" ");
 }
 
+Console.Write("-> ");
+
+for(i = 0; i < arr.Length; i++)
+{
+    if(arr[i] > 8)
+    {
+        Console.Write(arr[i]);
+        Console.Write(" ");
+    }
+    else Console.Write("");
+}
