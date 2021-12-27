@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\NewPractice\go\bin\Debug\net6.0\go.exe
+C:\Users\Андрей\Desktop\NewPractice\go\bin\Debug\net6.0\go.deps.json
+C:\Users\Андрей\Desktop\NewPractice\go\bin\Debug\net6.0\go.runtimeconfig.json
+C:\Users\Андрей\Desktop\NewPractice\go\bin\Debug\net6.0\go.dll
+C:\Users\Андрей\Desktop\NewPractice\go\bin\Debug\net6.0\ref\go.dll
+C:\Users\Андрей\Desktop\NewPractice\go\bin\Debug\net6.0\go.pdb
+C:\Users\Андрей\Desktop\NewPractice\go\obj\Debug\net6.0\go.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\NewPractice\go\obj\Debug\net6.0\go.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\NewPractice\go\obj\Debug\net6.0\go.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\NewPractice\go\obj\Debug\net6.0\go.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\NewPractice\go\obj\Debug\net6.0\go.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\NewPractice\go\obj\Debug\net6.0\go.dll
+C:\Users\Андрей\Desktop\NewPractice\go\obj\Debug\net6.0\ref\go.dll
+C:\Users\Андрей\Desktop\NewPractice\go\obj\Debug\net6.0\go.pdb
+C:\Users\Андрей\Desktop\NewPractice\go\obj\Debug\net6.0\go.genruntimeconfig.cache
